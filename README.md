@@ -25,4 +25,4 @@ node index.js
 ![Image of correct](https://lamontblack1.github.io/word-guess-cli/images/correct.jpg)
 
 ### Here is an example of an incorrect answer:
-![Image of incorrect](https://lamontblack1.github.io/word-guess-cli/images/incorrect.jpg)
+![Image of incorrect](https://lamontblack1.github.io/word-guess-cli/images/Incorrect.jpg)
