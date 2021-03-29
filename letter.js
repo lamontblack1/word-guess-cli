@@ -1,16 +1,19 @@
-let Letter = function (val,guessed) {
+var Letter = function (val, guessed) {
     this.val = val;
     this.guessed = guessed;
-    this.returnValue = function () {
+    this.displayVal = function () {
         if (this.guessed) {
-            return this.val
+            return this.val + " ";
         } else {
-            return "_"
+            return "_ ";
         }
     };
-    this.check = function (char) {
+    this.checkLetter = function (char) {
         if (char === this.val) {
             this.guessed = true
-        }
-    }
-}
+            return true
+        } else {return false}
+    };
+};
+
+module.exports = Letter;
