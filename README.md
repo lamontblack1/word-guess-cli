@@ -1,4 +1,4 @@
-# [word-guess-cli](https://lamontblack1.github.io/word-guess-cli/)
+# [word-guess-cli](https://github.com/lamontblack1/word-guess-cli)  
 This is a node command line app using constructors and modules. As the name implies it is a word guess game.
 My role in this project is creator.
 
